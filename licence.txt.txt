@@ -1,0 +1,10 @@
+This secura search browser is designed by Jivitesh(Cyber security Expert)
+
+System Requirements
+---------------------------------------
+1).Only linux
+2).x86 or x64 supported only
+2).open source for linux 
+
+---------------------------------------
+written in:- Python
